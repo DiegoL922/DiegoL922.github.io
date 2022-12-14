@@ -5,7 +5,7 @@ This is my home page! My name is Diego Luna  and I am a student at [Cal State Fu
 ## Computer Science Projects
 
 My GitHub page is http://github.com/DiegoL922.
-
+GitHub Username: DiegoL922
 ### CPSC 120
 
 * LAB 5
